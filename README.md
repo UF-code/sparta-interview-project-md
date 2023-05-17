@@ -1,7 +1,7 @@
 # Sparta Interview Project
 
 ## Tech Stack
-> React, Axios, Redux, Tailwind
+> React, Axios, Redux, Tailwind, Vite
 
 ## API ENDPOINTS
 > https://randomfox.ca/floof/
