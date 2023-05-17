@@ -15,7 +15,5 @@
 > https://api.open-meteo.com/v1/
 
 ### Video Representation
-https://github.com/UF-code/interview-task-react-fastify-postgresql-axios-redux-tailwind-ts-md/assets/67328993/23ef9d8e-349b-43e7-a5e0-d2f0df9e54b5
-
-
+https://github.com/UF-code/sparta-interview-project-md/assets/67328993/9b16ff64-5d42-4e89-aaa7-d66995dd0b4d
 
