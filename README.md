@@ -5,8 +5,11 @@
 
 ## API ENDPOINTS
 > https://randomfox.ca/floof/
+
 > https://api.themotivate365.com/stoic-quote
+
 > https://www.usom.gov.tr/api/
+
 > https://api.open-meteo.com/v1/
 
 ### Video Representation
