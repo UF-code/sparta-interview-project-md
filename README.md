@@ -10,6 +10,8 @@
 
 > https://www.usom.gov.tr/api/
 
+> https://api.api-ninjas.com/v1/dnslookup
+
 > https://api.open-meteo.com/v1/
 
 ### Video Representation
